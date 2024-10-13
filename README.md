@@ -1,4 +1,4 @@
-```markdown
+
 # Power BI Dashboards Repository
 
 This repository contains a collection of dashboards created using Power BI, covering various topics such as science, finance, astronomy, and more. This space is dedicated to my practice with this tool and my personal progress on the path to becoming a data engineer and ETL developer.
@@ -16,17 +16,15 @@ In this repository, you will find:
 - **Documentation**: Brief explanations and analyses of the dashboards and datasets used.
 - **Scripts and Queries**: Code used for data preparation and transformation (if applicable).
 
-
 ## Contributions
 
 This repository is currently intended for personal development. However, any constructive feedback or suggestions are welcome through GitHub issues.
 
 ## Contact
 
-For any questions or collaboration opportunities, feel free to contact me via [email]((mailto:cdeszz8@gmail.com)) or connect with me on [LinkedIn](https://www.linkedin.com/in/chris-jimenez-130bb1254/).
+For any questions or collaboration opportunities, feel free to contact me via [email](mailto:cdeszz8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chris-jimenez-130bb1254/).
 
 
-```markdown
 # Repositorio de Dashboards de Power BI
 
 Este repositorio contiene una colección de dashboards creados con Power BI, abarcando diversos temas que van desde ciencia hasta finanzas y astronomía. Este espacio está dedicado a mis prácticas con esta herramienta y mi progreso personal en el camino para convertirme en ingeniero de datos y desarrollador ETL.
@@ -51,4 +49,3 @@ Actualmente, este repositorio está destinado principalmente para mi desarrollo 
 ## Contacto
 
 Para cualquier pregunta o colaboración, puedes contactarme por [email](mailto:cdeszz8@gmail.com) o encontrarme en [LinkedIn](https://www.linkedin.com/in/chris-jimenez-130bb1254/).
-
